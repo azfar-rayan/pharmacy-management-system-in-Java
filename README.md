@@ -8,7 +8,7 @@ A Pharmacy management system is an application that helps pharmacists manage the
 - Eclipse IDE
 
 ## Commands to Start the Application
-- Make a database named `pharmacy`.I
+- Make a database named `pharmacy`.
 - In phpmyadmin import the `pharmacy.sql` for the above database.
 - Import the project into the Eclipse Workspace
 - Open the `src` folder, then `main`folder. 
